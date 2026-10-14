@@ -22,8 +22,7 @@
 
 - 🔭 Đang làm: các dự án cá nhân bằng Python, TypeScript và Godot
 - 🌱 Đang học: AI, game dev, web
-- 📫 Liên hệ: *(dlt77177z3@gmail.com*
-
+- 📫 Liên hệ: *dlt77177z3@gmail.com*
 ---
 
 ## 🛠️ Tech Stack
@@ -37,11 +36,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DacLe7&theme=tokyonight&hide_border=true&background=0D1117" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=DacLe7&theme=tokyonight&hide_border=true&background=0D1117" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DacLe7&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="95%" />
+  <img src="https://ghchart.rshah.org/7c3aed/DacLe7" width="95%" />
 </p>
 
 ---
