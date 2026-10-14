@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🙌 Glad to see you here! I'm Your Name
 
-<!--
-**DacLe7/DacLe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Welcome to my GitHub! 👋</h2>
 
-Here are some ideas to get you started:
+## 📈 Stats & Support
+<p align="center">
+  <img src="https://img.shields.io/github/followers/DacLe7?style=for-the-badge&logo=github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DacLe7&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DacLe7&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DacLe7&theme=radical&utcOffset=7" width="48%" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DacLe7&theme=radical&column=7" />
+</p>
