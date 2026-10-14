@@ -22,8 +22,7 @@
 
 - 🔭 Đang làm: các dự án cá nhân bằng Python, TypeScript và Godot
 - 🌱 Đang học: AI, game dev, web
-- 📫 Liên hệ: *(điền email hoặc Facebook của bạn)*
-- ⚡ Fun fact: *(điền điều gì đó vui vui về bạn)*
+- 📫 Liên hệ: *(dlt77177z3@gmail.com*
 
 ---
 
