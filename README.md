@@ -8,32 +8,21 @@
   </a>
 </p>
 
----
-
-## 🚀 About me
-
-- 🔭 Đang làm: các dự án cá nhân bằng Python, TypeScript và Godot
-- 🌱 Đang học: AI, game dev, web
-- 📫 Liên hệ: *(điền email hoặc Facebook của bạn)*
-
----
-
-## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td><img src="./skills.svg" alt="Skills" width="600" /></td>
+    <td><a href="mailto:dlt77177z3@gmail.com"><img src="./contact.svg" alt="Contact" width="340" /></a></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,godot,git,github,vscode,html,css&theme=dark" />
 </p>
 
----
-
-## 🔥 Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DacLe7&theme=tokyonight&hide_border=true&background=0D1117" width="95%" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-7c3aed?style=for-the-badge&labelColor=0d1117" />
+  <a href="mailto:dlt77177z3@gmail.com"><img src="https://img.shields.io/badge/Mail-dlt77177z3%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
